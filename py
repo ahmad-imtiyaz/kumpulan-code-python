@@ -1,0 +1,2 @@
+yaz = "yoo!"
+print (yaz)
