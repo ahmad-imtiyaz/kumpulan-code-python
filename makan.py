@@ -4,5 +4,5 @@ if waktu == 12:
   print ("waktunya makan")
 else:
   print ("sabar tetap waspada")
-print(waktu)
+
 
