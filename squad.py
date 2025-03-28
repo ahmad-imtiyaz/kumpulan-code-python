@@ -8,3 +8,4 @@ print("4. Penyihir Magis ")
 try:
 role = int(input("Pilih Role anda dengan menuliskan angka 1/2/3/4")
            if role == 1:
+           print("Anda sekarang ksatria dalam squad ini")
