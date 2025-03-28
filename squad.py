@@ -17,3 +17,5 @@ role = int(input("Pilih Role anda dengan menuliskan angka 1/2/3/4")
            print("Hati hati saat melemparkan mantra,tapi jika kau memilih sihir sebagai solusinya,maka nikmatilah")
            else :
            print("maaf tuan sepertinya opsi pilihan anda kurang tepat")
+           except ValueError:
+           print("Harap masukkan angka bukan yang lain")
