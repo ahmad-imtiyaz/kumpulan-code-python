@@ -15,3 +15,5 @@ role = int(input("Pilih Role anda dengan menuliskan angka 1/2/3/4")
            print("Pengorbanan mu tak akan sia sia ketika rekan mu mendapatkan kemenangan ")
            elif role == 4:
            print("Hati hati saat melemparkan mantra,tapi jika kau memilih sihir sebagai solusinya,maka nikmatilah")
+           else :
+           print 
