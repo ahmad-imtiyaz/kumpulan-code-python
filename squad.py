@@ -6,16 +6,18 @@ print("3. Algojo Perkasa ")
 print("4. Penyihir Magis ")
 
 try:
-role = int(input("Pilih Role anda dengan menuliskan angka 1/2/3/4 = "))
-           if role == 1:
-           print("Anda sekarang ksatria dalam squad ini")
-           elif role == 2:
-           print("Sang pemanah handal tak akan meleset busurnya saat di medan perang")
-           elif role == 3:
-           print("Pengorbanan mu tak akan sia sia ketika rekan mu mendapatkan kemenangan ")
-           elif role == 4:
-           print("Hati hati saat melemparkan mantra,tapi jika kau memilih sihir sebagai solusinya,maka nikmatilah")
-           else :
-           print("maaf tuan sepertinya opsi pilihan anda kurang tepat")
-           except ValueError:
-           print("Harap masukkan angka bukan yang lain")
+    role = int(input("Pilih Role anda dengan menuliskan angka 1/2/3/4 = "))
+
+    if role == 1:
+        print("Anda sekarang ksatria dalam squad ini")
+    elif role == 2:
+        print("Sang pemanah handal tak akan meleset busurnya saat di medan perang")
+    elif role == 3:
+        print("Pengorbanan mu tak akan sia sia ketika rekan mu mendapatkan kemenangan ")
+    elif role == 4:
+        print("Hati hati saat melemparkan mantra,tapi jika kau memilih sihir sebagai solusinya,maka nikmatilah")
+    else :
+        print("maaf tuan sepertinya opsi pilihan anda kurang tepat")
+    
+except ValueError:
+        print("Harap masukkan angka bukan yang lain")
