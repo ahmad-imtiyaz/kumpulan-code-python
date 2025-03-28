@@ -6,3 +6,4 @@ print("3. Algojo Perkasa ")
 print("4. Penyihir Magis ")
 
 try:
+role = int(input("Pilih Role anda dengan menuliskan angka 1/2/3/4")
