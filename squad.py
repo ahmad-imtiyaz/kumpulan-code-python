@@ -6,7 +6,7 @@ print("3. Algojo Perkasa ")
 print("4. Penyihir Magis ")
 
 try:
-role = int(input("Pilih Role anda dengan menuliskan angka 1/2/3/4")
+role = int(input("Pilih Role anda dengan menuliskan angka 1/2/3/4"))
            if role == 1:
            print("Anda sekarang ksatria dalam squad ini")
            elif role == 2:
