@@ -1,1 +1,1 @@
-# hello-word
+Kumpulan Code Python latihan yazna
