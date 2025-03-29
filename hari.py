@@ -15,3 +15,6 @@ print(f"Hari ini tanggal: {hari_ini}")
 umur_hari = hari_ini - tanggal_lahir
 umur_tahun = umur_hari.days // 365
 umur_bulan = (umur_hari.days % 365) // 30
+
+print(f"Hari nya adalah : {tanggal_lahir:%A}")
+
