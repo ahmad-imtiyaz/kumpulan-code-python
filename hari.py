@@ -11,3 +11,4 @@ tanggal_lahir = dt.date(tahun,bulan,tanggal)
 print(f"Tanggal lahir anda adalah : {tanggal_lahir}")
 
 hari_ini = dt.date.today()
+print(f"Hari ini tanggal: {hari_ini}")
