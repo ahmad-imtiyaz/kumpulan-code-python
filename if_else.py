@@ -7,3 +7,4 @@ nama = input("Masukan Nama Anda disini = ")
 #2 if indentation
 # if nama == "sal":
 #     print(f"Halo Princes {nama}")
+#     print("salam hangat untukmu")
