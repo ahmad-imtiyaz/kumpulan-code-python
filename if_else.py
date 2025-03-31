@@ -14,3 +14,4 @@ nama = input("Masukan Nama Anda disini = ")
 if nama == "yaz":
    print(f"Kerajaan aman di tangan anda {nama}")
 else:
+   print(f"Hanya rakyat biasa,Hai {nama}")
