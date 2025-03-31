@@ -9,3 +9,5 @@ nama = input("Masukan Nama Anda disini = ")
 #     print(f"Halo Princes {nama}")
 #     print("salam hangat untukmu")
 # print("sila masuk")
+
+#3. if and else statment
