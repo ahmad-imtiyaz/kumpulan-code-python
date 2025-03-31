@@ -15,3 +15,4 @@ if nama == "yaz":
    print(f"Kerajaan aman di tangan anda {nama}")
 else:
    print(f"Hanya rakyat biasa,Hai {nama}")
+print("masuk an lah")
