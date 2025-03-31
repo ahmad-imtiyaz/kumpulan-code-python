@@ -8,3 +8,4 @@ nama = input("Masukan Nama Anda disini = ")
 # if nama == "sal":
 #     print(f"Halo Princes {nama}")
 #     print("salam hangat untukmu")
+# print("sila masuk")
