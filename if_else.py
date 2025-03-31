@@ -13,3 +13,4 @@ nama = input("Masukan Nama Anda disini = ")
 #3. if and else statment
 if nama == "yaz":
    print(f"Kerajaan aman di tangan anda {nama}")
+else:
