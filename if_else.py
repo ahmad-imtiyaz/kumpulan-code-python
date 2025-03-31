@@ -5,3 +5,4 @@ nama = input("Masukan Nama Anda disini = ")
 # print("silahkan masuk")
 
 #2 if indentation
+# if nama == "sal":
