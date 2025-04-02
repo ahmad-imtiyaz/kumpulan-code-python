@@ -11,3 +11,6 @@ damage = int(input("Mau pakai skill berapa = "))
 if damage == 1:
     damage_amount = random.randint(20, 50)  # Rentang damage untuk Absolute Slash
     print(f"Kamu menggunakan Absolute Slash dan memberikan {damage_amount} damage!")
+elif damage == 2:
+    damage_amount = random.randint(10, 30)  # Rentang damage untuk Deduction
+    print(f"Kamu menggunakan Deduction dan memberikan {damage_amount} damage!")
