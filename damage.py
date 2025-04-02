@@ -17,3 +17,5 @@ elif damage == 2:
 elif damage == 3:
     damage_amount = random.randint(15, 40)  # Rentang damage untuk Double Dagger
     print(f"Kamu menggunakan Double Dagger dan memberikan {damage_amount} damage!")
+else:
+    print("Skill tidak valid!")
