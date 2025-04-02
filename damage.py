@@ -19,3 +19,8 @@ elif damage == 3:
     print(f"Kamu menggunakan Double Dagger dan memberikan {damage_amount} damage!")
 else:
     print("Skill tidak valid!")
+
+# Tambahan: Menampilkan sisa HP monster (opsional)
+monster_hp = 100  # Asumsi HP monster awal
+monster_hp -= damage_amount if 'damage_amount' in locals() else 0  # Mengurangi HP monster
+print(f"Sisa HP monster: {monster_hp}")
