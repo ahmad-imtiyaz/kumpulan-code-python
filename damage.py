@@ -7,3 +7,7 @@ print("2. Skill Deduction")
 print("3. Skill Double Dagger")
 
 damage = int(input("Mau pakai skill berapa = "))
+
+if damage == 1:
+    damage_amount = random.randint(20, 50)  # Rentang damage untuk Absolute Slash
+    print(f"Kamu menggunakan Absolute Slash dan memberikan {damage_amount} damage!")
