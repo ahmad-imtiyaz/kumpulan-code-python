@@ -12,3 +12,5 @@ try:
        print(f"{angka} adalah bilangan prima.")
     else:
         print(f"{angka} bukan bilangan prima.")
+except ValueError:
+    print("Masukkan hanya angka yang valid!")
