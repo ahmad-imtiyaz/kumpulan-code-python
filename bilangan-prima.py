@@ -5,3 +5,7 @@ def cek_prima(angka):
         if angka % i == 0:
             return False
     return True
+# Input dari pengguna
+try:
+    angka = int(input("Masukkan sebuah angka: "))
+    if cek_prima(angka):
