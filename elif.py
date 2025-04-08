@@ -3,3 +3,4 @@
 nama = input("Masukan Nama: ")
 
 if nama == "wahid": # kondisi 1
+  print("halo wahid") # aksi 1
