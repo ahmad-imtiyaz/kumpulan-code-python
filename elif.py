@@ -7,3 +7,4 @@ if nama == "wahid": # kondisi 1
 elif nama == "isnaian": # kondisi 2
   print("halo isnain") # aksi 2
 elif nama == "salasa": # kondisi 3
+  print("halo salasa") # aksi 3
