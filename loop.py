@@ -35,3 +35,5 @@ data_str = "ini yaazna"
 for i in data_str:
     print(i)
 print("akhir dari program 4 \n")
+
+#akhir dari paragraf
