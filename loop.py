@@ -29,6 +29,7 @@ for i in angka_range:
 print("akhir dari program 3 \n")
 
 #ini adalah string
+#
 
 data_str = "ini yaazna"
 
