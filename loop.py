@@ -30,10 +30,12 @@ print("akhir dari program 3 \n")
 
 #ini adalah string
 
+
 data_str = "ini yaazna"
 
 for i in data_str:
     print(i)
 print("akhir dari program 4 \n")
 
-#akhir dari paragraf
+
+#selanjutnya akan ada while loop
