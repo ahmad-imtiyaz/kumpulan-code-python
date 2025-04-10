@@ -16,4 +16,4 @@ while angka < 10:
 
 print("progam telah berakhir")
 
-#a
+#ak
