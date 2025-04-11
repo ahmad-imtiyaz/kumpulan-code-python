@@ -15,3 +15,5 @@ while angka < 10:
     print("ulang lagi keatas")
 
 print("progam telah berakhir")
+
+#akhir --
