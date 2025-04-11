@@ -30,4 +30,4 @@ while angka < 5:
 
 print("selesai")
 
-#progam selesai
+#progam selesai .
