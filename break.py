@@ -10,7 +10,7 @@ while angka < 10:
         print("berhenti")
         break
 
-    print("lanjut")
+    # print("lanjut")
 
 # print("progam selesai")
 
