@@ -1,8 +1,8 @@
 # Break
 
-angka = 0
+# angka = 0
 
-while angka < 10:
+# while angka < 10:
     # angka += 2
     # print(f"angka sekarang -> {angka}")
 
