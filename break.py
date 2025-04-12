@@ -8,7 +8,7 @@ while angka < 10:
 
     if angka == 6:
         print("berhenti")
-        break
+        # break
 
     # print("lanjut")
 
