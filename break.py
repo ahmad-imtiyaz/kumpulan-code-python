@@ -4,7 +4,7 @@ angka = 0
 
 while angka < 10:
     angka += 2
-    print(f"angka sekarang -> {angka}")
+    # print(f"angka sekarang -> {angka}")
 
     # if angka == 6:
         # print("berhenti")
