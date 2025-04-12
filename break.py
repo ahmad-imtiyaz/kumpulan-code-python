@@ -12,7 +12,7 @@ while angka < 10:
 
     print("lanjut")
 
-print("progam selesai")
+# print("progam selesai")
 
 data_int = int(input("Hitung nyampe = "))
 
