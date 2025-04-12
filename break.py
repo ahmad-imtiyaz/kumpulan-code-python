@@ -7,7 +7,7 @@ while angka < 10:
     print(f"angka sekarang -> {angka}")
 
     if angka == 6:
-        print("berhenti")
+        # print("berhenti")
         # break
 
     # print("lanjut")
