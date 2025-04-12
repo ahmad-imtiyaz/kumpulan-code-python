@@ -29,3 +29,5 @@ while angka < 5:
     print("beraksi") #aksi 2
 
 print("selesai")
+
+#progam selesai .
