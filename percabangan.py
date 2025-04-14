@@ -61,3 +61,9 @@ while True:
         # Akan Kembali Ke Atas Jika Ganjil
         count += 1
         continue
+
+    # Akan Break Jika Count Melebihi Sisi
+    if count > sisi:
+        break
+
+print("Akhir While")
