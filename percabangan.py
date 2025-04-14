@@ -10,3 +10,9 @@ count = 1
 for i in range(sisi):
     print("*" * count)
     count += 1
+
+print("Akhir For\f") 
+
+# 2. Menggunakan While
+
+print("Awal While")
