@@ -23,3 +23,9 @@ while True:
 
     if count > sisi:
         break
+
+print("Akhir While\f")
+
+# 3. Hanya Ganjil Saja
+
+print("Awal While")
