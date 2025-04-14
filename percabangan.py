@@ -33,3 +33,6 @@ count = 1
 while True:
     if (count%2):
         # Print Jika Ganjil
+        print("*" * count)
+        count += 1
+    else:
