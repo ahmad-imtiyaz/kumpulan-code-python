@@ -16,3 +16,6 @@ print("Akhir For\f")
 # 2. Menggunakan While
 
 print("Awal While")
+count = 1
+while True:
+    print("*" * count)
