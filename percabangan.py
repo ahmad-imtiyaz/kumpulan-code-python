@@ -29,3 +29,7 @@ print("Akhir While\f")
 # 3. Hanya Ganjil Saja
 
 print("Awal While")
+count = 1
+while True:
+    if (count%2):
+        # Print Jika Ganjil
