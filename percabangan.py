@@ -45,3 +45,19 @@ while True:
         break
 
 print("Akhir While\f")
+
+# 4. hanya ganjil saja 
+print("Awal While")
+count = 1
+spasi = int(sisi/2)
+
+while True:
+    if (count % 2):
+        # Print Jika Ganjil
+        print(" " * spasi, "+" * count)
+        spasi -= 1
+        count += 1
+    else:
+        # Akan Kembali Ke Atas Jika Ganjil
+        count += 1
+        continue
