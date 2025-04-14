@@ -7,3 +7,6 @@ sisi = 9
 # Dummy Variable
 print("Awal For")
 count = 1
+for i in range(sisi):
+    print("*" * count)
+    count += 1
