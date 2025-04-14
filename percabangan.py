@@ -36,3 +36,6 @@ while True:
         print("*" * count)
         count += 1
     else:
+        # Akan Kembali Ke Atas Jika Ganjil
+        count += 1
+        continue
