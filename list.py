@@ -30,7 +30,7 @@ print(list_pake_for)
 list_pake_for_if = [i for i in range(0,10) if i != 5]
 print(list_pake_for_if)
 
-# membuat list menampilkan Bilangan Genap
+# Membuat list menampilkan Bilangan Genap
 list_pake_for_if = [i for i in range(0,10) if i%2 == 0]
 print(list_pake_for_if)
 
