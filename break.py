@@ -1,18 +1,18 @@
 # Break
 
-angka = 0
+# angka = 0
 
-while angka < 10:
-    angka += 2
-    print(f"angka sekarang -> {angka}")
+# while angka < 10:
+    # angka += 2
+    # print(f"angka sekarang -> {angka}")
 
-    if angka == 6:
-        print("berhenti")
-        break
+    # if angka == 6:
+        # print("berhenti")
+        # break
 
-    print("lanjut")
+    # print("lanjut")
 
-print("progam selesai")
+# print("progam selesai")
 
 data_int = int(input("Hitung nyampe = "))
 
