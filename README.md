@@ -4,4 +4,5 @@ Latihan yazna mulai dari 2025 ,semuanya tentang python mulai dari data dan code 
 - Target perhari 1 video pembelajaran -
 - pembelajaran terupdate tentang beberapa bahasa pemrogaman
 - Laravel dlu
+- tailwind fvk
   
