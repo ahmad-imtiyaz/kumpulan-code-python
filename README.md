@@ -5,3 +5,4 @@ Latihan yazna mulai dari 2025 ,semuanya tentang python mulai dari data dan code 
 - pembelajaran terupdate tentang beberapa bahasa pemrogaman
 - Laravel dlu
 - Tailwind dulu
+- node dulu
