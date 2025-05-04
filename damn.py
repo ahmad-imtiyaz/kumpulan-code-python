@@ -1,4 +1,4 @@
-yaz = "yoo!"
+yaz = "yoohooo!"
 print (yaz)
 print ("yaz",yaz)
 1 = 1
