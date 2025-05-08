@@ -58,7 +58,7 @@ class CameraPage(QWidget):
 class MainApp(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Aplikasi Python Desktop")
+        self.setWindowTitle("Aplikasi Python Kamera")
         self.resize(800, 600)
         self.showWelcome()
 
