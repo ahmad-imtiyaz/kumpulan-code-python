@@ -21,3 +21,5 @@ if __name__ == "__main__":
     user_prompt = input("Masukkan prompt Anda: ")
     result = generate_response(user_prompt)
     print("Response dari GPT:", result)
+
+print("selesai")
