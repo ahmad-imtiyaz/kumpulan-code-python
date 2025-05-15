@@ -5,7 +5,7 @@ def letter_pyramid(custom_letter='*', height=5):
         print(' ' * (height - i), end='')
         # Print the custom letter in pyramid shape
         print((custom_letter + ' ') * i)
-
+#
 # Example usage
 if __name__ == "__main__":
     # Customize the letter and height here
