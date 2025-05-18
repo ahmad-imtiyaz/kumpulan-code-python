@@ -15,7 +15,7 @@ elif damage == 2:
     damage_amount = random.randint(10, 30)  # Rentang damage untuk Deduction
     print(f"Kamu menggunakan Deduction dan memberikan {damage_amount} damage!")
 elif damage == 3:
-    damage_amount = random.randint(15, 40)  # Rentang damage untuk Double Dagger
+    damage_amount = random.randint(15, 50)  # Rentang damage untuk Double Dagger
     print(f"Kamu menggunakan Double Dagger dan memberikan {damage_amount} damage!")
 else:
     print("Skill tidak valid!")
