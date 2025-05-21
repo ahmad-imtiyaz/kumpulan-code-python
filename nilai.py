@@ -1,4 +1,4 @@
-def cek_kkm(nilai, kkm=75):
+def cek_kkm(nilai, kkm = 75):
     if nilai >= kkm:
         return "Selamat! Nilai Anda sudah mencapai atau melebihi KKM."
     else:
