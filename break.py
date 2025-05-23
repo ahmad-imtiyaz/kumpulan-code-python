@@ -28,5 +28,5 @@ while True:
 
     print("lanjut")
 
-print("akhir progam")
+print("akhir progamnya")
 
